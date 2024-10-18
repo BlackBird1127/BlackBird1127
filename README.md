@@ -1,4 +1,8 @@
-## Hi there 👋
+<h2 align="center"> Hi there! My name's Raven. 👋<h2>
+
+<h2>Contact</h2>
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) -> raven.so@gmail.com
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) -> <a href="https://www.linkedin.com/in/raven-so-92191220"\a>
 
 <!--
 **BlackBird1127/BlackBird1127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
